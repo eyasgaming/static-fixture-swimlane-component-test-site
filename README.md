@@ -37,7 +37,7 @@ to switch between environment, change the URL in the script and config section, 
 
 ```
 Prod:
-        <script src="https://lancebetting.com/etc.clientlibs/eyas-web/clientlibs/external-components.latest.js" data-eyas-config="https://lancebetting.com/content/eyas-web/lancebet_com/pt.client.settings.json" async></script>
+        <script src="https://www.lancebetting.com/etc.clientlibs/eyas-web/clientlibs/external-components.latest.js" data-eyas-config="https://www.lancebetting.com/content/eyas-web/lancebet_com/pt.client.settings.json" async></script>
  UAT:       
         
           <script src="https://lancebet-com-uat.eyasgaming.net/etc.clientlibs/eyas-web/clientlibs/external-components.latest.js" data-eyas-config="https://lancebet-com-uat.eyasgaming.net/content/eyas-web/lancebet_com/pt.client.settings.json" async></script>
